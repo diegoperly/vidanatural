@@ -1,6 +1,6 @@
 {
-  "vendor": "belavidanatural",
-  "name": "belavidanatural-theme",
+  "vendor": "vidanatural",
+  "name": "vidanatural-theme",
   "version": "0.0.63",
   "builders": {
     "styles": "2.x",
