@@ -1,0 +1,7 @@
+{
+  "store.custom#seguranca": {
+    "blocks": [
+      "flex-layout.row#about-us"
+    ]
+  }
+}

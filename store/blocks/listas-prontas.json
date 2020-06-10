@@ -1,0 +1,7 @@
+{
+  "store.custom#listas-prontas": {
+    "blocks": [
+      "flex-layout.row#about-us"
+    ]
+  }
+}

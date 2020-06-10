@@ -1,0 +1,7 @@
+{
+  "store.custom#duvidas": {
+    "blocks": [
+      "flex-layout.row#about-us"
+    ]
+  }
+}

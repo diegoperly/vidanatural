@@ -1,0 +1,7 @@
+{
+  "store.custom#politica-de-frete": {
+    "blocks": [
+      "flex-layout.row#about-us"
+    ]
+  }
+}

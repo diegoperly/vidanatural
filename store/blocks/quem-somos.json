@@ -1,0 +1,7 @@
+{
+  "store.custom#quem-somos": {
+    "blocks": [
+      "flex-layout.row#about-us"
+    ]
+  }
+}

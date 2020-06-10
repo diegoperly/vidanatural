@@ -1,0 +1,7 @@
+{
+  "store.custom#troca-e-devolucao": {
+    "blocks": [
+      "flex-layout.row#about-us"
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "store.custom#selos": {
+    "blocks": [
+      "flex-layout.row#about-us"
+    ]
+  }
+}

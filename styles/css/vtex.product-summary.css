@@ -1,0 +1,20 @@
+.buyButton{
+    width:50%;
+}
+.buyButton :global(.vtex-button){
+    text-transform:capitalize;
+}
+.container{
+    border:1px solid #ccc;
+    margin: 0 .5em;
+}
+.productNameContainer{
+    padding:0 .3em;
+    text-align:left;
+}
+.brandName{
+    font-weight:bold;
+}
+.element{
+    padding-bottom:0;
+}
